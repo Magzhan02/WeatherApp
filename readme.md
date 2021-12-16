@@ -2,4 +2,4 @@
 
 Api: OpenWeatherMap
 
-Stack: HTML,SCC,JavaScript(fetch) 
+Stack: HTML,CSS,JavaScript(fetch) 
