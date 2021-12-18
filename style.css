@@ -69,7 +69,7 @@ body{
     position: absolute;
     top: 0;
     bottom: 7px;
-    left: 65px;
+    left: 75px;
 }
 
 .info__block h1{
@@ -80,7 +80,7 @@ body{
 
 
 .info__block .descr{
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 .info__block.loading{
